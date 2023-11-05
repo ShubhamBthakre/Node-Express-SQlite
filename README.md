@@ -1,0 +1,17 @@
+- Application Programming Interface(API)
+- Connecting SQLite Database
+- SQLite Command Line Tool
+- Third-Party Packages
+  - sqlite & sqlite3# Node-Express-SQlite
+ 
+- SQLite Methods
+ -get()
+ -run()
+-Node JS Third-party packages
+-Nodemon
+-GoodReads API
+  -Get Book
+  -Add Book
+  -Update Book
+  -Delete Book
+  -Get Author Book
