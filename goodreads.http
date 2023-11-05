@@ -46,4 +46,8 @@ DELETE http://localhost:3000/books/2/
 ###
 GET http://localhost:3000/authors/1/books/
 
+###
+GET http://localhost:3000/books/?offset=2&limit=3&search_q=potter&order_by=price&order=DESC
+
+
 
